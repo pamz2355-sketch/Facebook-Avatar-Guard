@@ -1,3 +1,5 @@
+
+
 <p align="center"><a href="https://github.com/DuckCIT/Facebook-Avatar-Guard" target="_blank" rel="noreferrer noopener"><img width="90" alt="FAG Logo" src="img/icon.png"></a></p>
 <p align="center">Facebook Avatar Guard allows <strong>toggle</strong> Facebook profile picture <strong>guard</strong>.</p>
 
